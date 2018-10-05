@@ -1,0 +1,11 @@
+id,url,title,rev_host,visit_count,hidden,typed,frecency,last_visit_date,guid,foreign_count,url_hash,description,preview_image_url
+1,https://www.mozilla.org/en-US/firefox/57.0/firstrun/,Welcome to Firefox,gro.allizom.www.,1,0,0,100,240422285,lPFu5Q-5WggG,0,1393327666,<null>,<null>
+2,https://www.mozilla.org/en-US/firefox/central/,<null>,gro.allizom.www.,0,0,0,140,<null>,7wnKOlnK7xYW,1,61526586,<null>,<null>
+3,https://support.mozilla.org/en-US/products/firefox,<null>,gro.allizom.troppus.,0,0,0,140,<null>,WJEEUKJR5m_Q,1,1485745218,<null>,<null>
+4,https://www.mozilla.org/en-US/firefox/customize/,<null>,gro.allizom.www.,0,0,0,140,<null>,GbNOnfHsBSSJ,1,705234314,<null>,<null>
+5,https://www.mozilla.org/en-US/contribute/,<null>,gro.allizom.www.,0,0,0,140,<null>,lwa0vuxLvxXt,1,1725079675,<null>,<null>
+6,https://www.mozilla.org/en-US/about/,<null>,gro.allizom.www.,0,0,0,140,<null>,OtK7Z4Q-wSTR,1,-1829419937,<null>,<null>
+7,place:sort=8&maxResults=10,<null>,.,0,1,0,0,<null>,myMb14BJnvGi,1,920365463,<null>,<null>
+8,place:type=6&sort=14&maxResults=10,<null>,.,0,1,0,0,<null>,mMjnLa6WCX_C,1,1430967596,<null>,<null>
+9,https://www.mozilla.org/privacy/firefox/,<null>,gro.allizom.www.,1,1,0,25,240651966,lxnNte7gemMe,0,101683833,<null>,<null>
+10,https://www.mozilla.org/en-US/privacy/firefox/,<null>,gro.allizom.www.,1,0,0,100,240716293,KA8U_nxp9AfC,0,1723152729,<null>,<null>
